@@ -74,13 +74,43 @@
     <Compile Include="FormExample.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="ListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBox.Designer.cs">
+      <DependentUpon>ListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuExample.Designer.cs">
+      <DependentUpon>MenuExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupExample.Designer.cs">
+      <DependentUpon>PopupExample.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadioControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormExample.resx">
       <DependentUpon>FormExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListBox.resx">
+      <DependentUpon>ListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuExample.resx">
+      <DependentUpon>MenuExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupExample.resx">
+      <DependentUpon>PopupExample.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -92,6 +122,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="RadioControls.resx">
+      <DependentUpon>RadioControls.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

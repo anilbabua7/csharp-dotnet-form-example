@@ -17,7 +17,7 @@ namespace WindowsFormsApp1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            FormExample.FormExample form = new FormExample.FormExample();            
+            FormExample.PopupExample form = new FormExample.PopupExample();            
             Application.Run(form);
         }
     }

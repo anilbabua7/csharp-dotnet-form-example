@@ -9,3 +9,7 @@ C:\Users\Anilbabu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FormE
 C:\Users\Anilbabu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FormExample.exe
 C:\Users\Anilbabu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FormExample.pdb
 C:\Users\Anilbabu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FormExample.FormExample.resources
+C:\Users\Anilbabu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FormExample.RadioControls.resources
+C:\Users\Anilbabu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FormExample.ListBox.resources
+C:\Users\Anilbabu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FormExample.MenuExample.resources
+C:\Users\Anilbabu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FormExample.PopupExample.resources
